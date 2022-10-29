@@ -1,0 +1,11 @@
+ion-col {}
+
+ion-button {
+    --background: #5247ef;
+    --background-hover: #79009e;
+    width: 100%;
+}
+
+ion-col p {
+    font-weight: bold;
+}
